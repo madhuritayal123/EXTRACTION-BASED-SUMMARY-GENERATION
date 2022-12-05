@@ -1,0 +1,1 @@
+Stack is the data structures which maintain the order of last-in first-out.Queues are data structures which maintain the order of first-in first-out. But both have important applications in programs as a data structure.A stack is an appropriate data structure for this task.According to the study stack is very useful data structure.
